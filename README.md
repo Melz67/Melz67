@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFA6;">Mohamed Ahmed El-Zonkorani</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFA6; text-decoration: underline;">Mohamed Ahmed El-Zonkorani</span></h1>
 
 <hr style="border: 1px solid #00BFA6; width: 80%; margin: auto;">
 
@@ -17,7 +17,7 @@
 ---
 
 ### 🔬 Research & Projects
-🚀 **[PathoMap](#)** — *ASBCB Omics Codeathon 2025*  
+🚀 **[PathoMap](https://github.com/omicscodeathon/pathomap)** — *ASBCB Omics Codeathon 2025*  
 > Comparative genomics tool mapping pathogenic variants across species.  
 
 🌱 **Biofertilizer ML Project** — Graduation Project  
