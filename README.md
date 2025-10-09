@@ -3,7 +3,7 @@
 <hr style="border: 1px solid #00BFA6; width: 80%; margin: auto;">
 
 <p align="center">
-🎓 <b>Biotechnology Graduate | Bioinformatician | AI & ML Researcher</b><br>
+🎓 <b>Bioinformatician | AI & ML Researcher</b><br>
 💻 Passionate about bridging <b>Biological Data</b> with <b>Machine Learning & Computational Models</b>
 </p>
 
