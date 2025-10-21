@@ -60,28 +60,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melz67&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melz67&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-### 🏅 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Melz67&theme=darkhub&no-bg=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-### 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Melz67&theme=tokyo-night"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:mohamed.ahmedd90201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
