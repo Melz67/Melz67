@@ -2,10 +2,6 @@
 
 <p align="center">
  <b>AI & ML Engineer | Data Analyst</b><br>
-<p align="center">
-  <img width="632" height="395" alt="me" src="https://github.com/user-attachments/assets/a964a8a3-ed72-4da6-96d7-d3c0bf286570" />
-</p>
-
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
